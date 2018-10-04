@@ -22,7 +22,7 @@ body {
 header .topnav {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  font-size: 1em;
+  font-size: 1rem;
   text-align: center;
 }
 
@@ -72,7 +72,7 @@ p{
     font-size: 20px;
   }
 
-  .botnav {
+ footer .botnav {
     color:  	 	#fffff0;
     background-color: #6d7993;
     font-family: 'Roboto', sans-serif;
